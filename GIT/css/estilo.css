@@ -1,0 +1,8 @@
+img{
+    background-image:url(img/nieve.jpg);
+    background-color: rgba(235, 27, 27, 0.918);
+    background-repeat: no-repeat;
+    height:250px;
+    width:250px;
+    color:red;
+}
